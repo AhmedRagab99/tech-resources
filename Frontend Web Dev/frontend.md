@@ -23,7 +23,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 
 ---
 
-## HTML & CSS
+## HTML&CSS
 
 ### Free Videos
 
@@ -102,7 +102,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/)
 - [2021 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
 
-## Articles / Repos
+### Articles / Repos
 
 - [React community](https://reactjs.org/community/support.html)
 - [React Docs](https://reactjs.org/docs/getting-started.html)
@@ -133,7 +133,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 - [Reactive Angular Course (with RxJs)](https://www.udemy.com/course/rxjs-reactive-angular-course/)
 - [Angular Testing Masterclass (with FREE E-Book)](https://www.udemy.com/course/angular-testing-course/https://www.udemy.com/course/angular-testing-course/)
 
-## Articles / Repos
+### Articles / Repos
 
 - [Angular community](https://angular.io/resources?category=community)
 - [Angular Docs](https://angular.io/)
@@ -162,7 +162,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 - [Vue JS Essentials with Vuex and Vue Router](https://www.udemy.com/course/vue-js-course/)
 - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
 
-## Articles / Repos
+### Articles / Repos
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning)

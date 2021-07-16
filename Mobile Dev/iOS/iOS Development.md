@@ -44,7 +44,7 @@ Our awesome list of resources for everything iOS **DEVELOPMENT** 😎🔥.
 
 ## **Courses**
 
-- ### Free course
+- ### Free courses
 
     - [To DO List app](https://www.youtube.com/watch?v=U-Y9HJzNhQ0&list=PL5PR3UyfTWvdnGx8M3tQDPGhC5kwYbdWZ)
     - [Stanford Course  spring 2020](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
@@ -59,7 +59,7 @@ Our awesome list of resources for everything iOS **DEVELOPMENT** 😎🔥.
     - [Swiftui MVVM Fitness app](https://www.youtube.com/watch?v=GW-palKVv8o&list=PLLvVbXNzMjkvLVmXOzUeAmcV-zeeIcU_m)
     - [MVVM ios app](https://www.youtube.com/watch?v=FokGdFjIobo&list=PLLvVbXNzMjks_NtDCdluOYXdo8Ikx2GjH)
 
-- ### Paid course
+- ### Paid courses
 
     - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
     - [iOS Dev Launchpad (Sean Allen)](https://seanallen.teachable.com/p/ios-dev-launchpad)

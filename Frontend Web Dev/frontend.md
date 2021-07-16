@@ -60,7 +60,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 
 ---
 
-## Tailwind CSS
+## TailwindCSS
 
 ### Free Videos
 
@@ -69,7 +69,7 @@ Our awesome list of resources for everything **Frontend WEB DEVELOPMENT** ðŸ˜ŽðŸ
 
 ---
 
-## Material UI
+## MaterialUI
 
 ### Free Videos
 
